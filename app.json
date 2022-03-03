@@ -1,6 +1,6 @@
 {
-  "name": "2",
-  "description": "Deploy Shadowsocks+V2Ray-plugin to Heroku.",
+  "name": "Free fly to Heroku.",
+  "description": "Free fly to Heroku.",
   "keywords": ["V2ray", "Shadowsocks", "V2Ray-plugin"],
   "env": {
      "ENCRYPT": {
